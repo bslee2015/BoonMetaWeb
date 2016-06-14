@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MetaWebsite:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetaWebsite_war</output-path>
+    <root id="archive" name="MetaWebsite_war.war">
+      <element id="artifact" artifact-name="MetaWebsite:war exploded" />
+    </root>
+  </artifact>
+</component>
